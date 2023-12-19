@@ -1,0 +1,19 @@
+resultado1 = 2.25 - 1
+resultado2 = 3.0 * 3
+resultado3 = 2 * 4
+resultado4 = 2.0 ** 4
+resultado5 = 2 / 2.0
+resultado6 = 6 / 4
+resultado7 = 6 % 4
+resultado8 = 4 % 2
+resultado9 = round(0.58)
+
+print(f"2.25 - 1 = {resultado1}, tipo: {type(resultado1)}")
+print(f"3.0 * 3 = {resultado2}, tipo: {type(resultado2)}")
+print(f"2 * 4 = {resultado3}, tipo: {type(resultado3)}")
+print(f"2.0 ** 4 = {resultado4}, tipo: {type(resultado4)}")
+print(f"2 / 2.0 = {resultado5}, tipo: {type(resultado5)}")
+print(f"6 / 4 = {resultado6}, tipo: {type(resultado6)}")
+print(f"6 % 4 = {resultado7}, tipo: {type(resultado7)}")
+print(f"4 % 2 = {resultado8}, tipo: {type(resultado8)}")
+print(f"round(0.58) = {resultado9}, tipo: {type(resultado9)}")

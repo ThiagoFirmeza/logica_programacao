@@ -1,0 +1,13 @@
+valor_total = 834.45
+notas de 100 = 8
+notas de 50 = 0
+notas de 20 = 1
+notas de 10 = 1
+notas de 5 = 0
+notas de 2 = 2
+moedas de 1 = 0
+moedas de 0.50 = 0
+moedas de 0.25 = 0
+moedas de 0.10 = 4
+moedas de 0.05 = 0
+moedas de 0.01 = 5
