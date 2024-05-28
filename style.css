@@ -1,0 +1,29 @@
+html {
+    font-family: 'Nunito', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(100,139,170);
+background: linear-gradient(0deg, rgba(100,139,170,1) 0%, rgba(22,100,152,1) 100%);
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 40px;
+    background-color: #102f53;
+    color: #333;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #000000aa;
+}
+
+section {
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
