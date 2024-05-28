@@ -2,6 +2,6 @@
 
 **Professora:** Gisliany Alves
 
-**Aluno:** Thiago Moneteegro
+**Aluno:** Thiago Firmeza
 
 **Site das tarefas:** https://thiagofirmeza.github.io/logica_programacao/
